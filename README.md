@@ -26,11 +26,20 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Explain benefit(s) using `client-side routing`?
 > Answer:
+
+1. Routing between views is faster since less data is processed.
+2. It's easier to implement smooth transitions and animations between views.
+
+
 - [ ] What does AJAX stand for?
 > Answer:
+
+Answer: AJAX stands for Asynchronous JavaScript And XML.
+
 - [ ] What are `controlled components` in React?
 > Answer:
 
+Controlled components in React are input form elements (like <input>, <textarea>, and <select> whose values are controlled by the React state as the "single source of truth."
 
 ## Project Set Up
 
